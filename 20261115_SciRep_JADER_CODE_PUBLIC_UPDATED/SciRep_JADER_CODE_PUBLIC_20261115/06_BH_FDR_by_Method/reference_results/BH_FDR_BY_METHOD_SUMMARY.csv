@@ -1,0 +1,7 @@
+﻿dataset,engine,n_total_rows,n_tested,n_CI95_candidates,n_BH_significant_positive,n_CI95_candidates_surviving_BH,min_q_BH,alpha,source_file
+overall,prophet,727,720,7,0,0,0.26483787925848,0.05,INFERENCE_BY_METHOD_overall.csv
+overall,arima_sarima,727,720,9,0,0,1.0,0.05,INFERENCE_BY_METHOD_overall.csv
+non_vaccine,prophet,698,692,4,0,0,0.4385597396506212,0.05,INFERENCE_BY_METHOD_non_vaccine.csv
+non_vaccine,arima_sarima,698,692,7,0,0,1.0,0.05,INFERENCE_BY_METHOD_non_vaccine.csv
+vaccine,prophet,51,47,10,5,5,0.0143897651489027,0.05,INFERENCE_BY_METHOD_vaccine.csv
+vaccine,arima_sarima,51,47,2,0,0,0.8020644253546122,0.05,INFERENCE_BY_METHOD_vaccine.csv

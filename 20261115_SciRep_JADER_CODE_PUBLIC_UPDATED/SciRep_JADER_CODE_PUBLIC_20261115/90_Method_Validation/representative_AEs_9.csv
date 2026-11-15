@@ -1,0 +1,10 @@
+﻿dataset,event,selection_role
+overall,ギラン・バレー症候群,reported_positive_shared_models
+overall,誤嚥,reported_positive_small_effect
+overall,下垂体炎,reported_positive_small_effect
+overall,貧血,high_frequency_borderline
+non_vaccine,誤嚥,positive_delta_CI_crosses_zero
+non_vaccine,続発性副腎皮質機能不全,reported_positive_small_effect
+vaccine,ギラン・バレー症候群,reported_positive_shared_models
+vaccine,急性散在性脳脊髄炎,reported_positive_shared_models
+non_vaccine,食欲減退,Table3_Appetite_loss_only_ARIMA_SARIMA_positive
